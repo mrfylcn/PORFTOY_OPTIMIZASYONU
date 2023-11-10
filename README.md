@@ -1,1 +1,1 @@
-# RStudio-ile-VER-ANAL-Z-
+# RStudio-ile-VERIANALIZI
