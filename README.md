@@ -1,1 +1,1 @@
-# RStudio-ile-VERIANALIZI
+# SQL
